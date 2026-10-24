@@ -11,4 +11,4 @@ Chatbot Development
 Agentic AI
 RAG (Retrieval Augmented Generation)
 
-I enjoy experimenting with various AI technologies and developing smart applications. I am interested in exploring how modern AI works practically. My ultimate goal is to become an expert in Full Stack and AI Development.
+I enjoy experimenting with various AI technologies and developing smart applications. I am interested in exploring how modern AI works practically works. My goal is to gain solid knowledge in full-stack and AI Development.
